@@ -16,7 +16,6 @@
  */
 
 #include "TM4C123GH6PM.h"
-#include "SysTick_Delay.h"
 
 // Constant definitions for the user LED (RGB) colors
 extern const uint8_t RGB_LED_OFF;
